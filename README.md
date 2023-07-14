@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dennis</h1>
 <h3 align="center">A passionate software developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=draian123" alt="draian123" /></a> </p>
 
 - 🌱 I’m currently learning **NextJS, Typescript and Prisma**
 
