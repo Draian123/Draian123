@@ -3,6 +3,8 @@
 <h3 align="center">A passionate software developer from Germany</h3>
 
 
+
+
 - 🌱 I’m currently learning **NextJS, Typescript and Prisma**
 
 - 👨‍💻 All of my projects are available at [https://dennisbeitel.vercel.app/](https://dennisbeitel.vercel.app/)
