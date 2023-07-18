@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dennisbeitel.vercel.app/](https://dennisbeitel.vercel.app/)
 
-- 📫 How to reach me **beiteldennis123@googlemail.com**
+- 📫 How to reach me: **beiteldennis123@googlemail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
