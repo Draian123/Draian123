@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **NextJS, Typescript and Prisma**
+- 🌱 I’m currently learning **Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://dennisbeitel.vercel.app/](https://dennisbeitel.vercel.app/)
 
